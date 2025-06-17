@@ -10,7 +10,7 @@ const products = [
   {
     id: 2,
     name: "Eco-friendly Bamboo Toothbrush (Pack of 5)",
-    image: "https://via.placeholder.com/300x200?text=Bamboo+Toothbrush",
+    image: "testing_images/green-tea.jpg",
     originalPrice: 25,
     discountPrice: 18,
     buyersNeeded: 3,
