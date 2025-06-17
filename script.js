@@ -24,13 +24,13 @@ const products = [
     buyersNeeded: 4,
   },
   {
-  id: 4,  // make sure this ID is unique!
-  name: "Organic Green Tea (250g)",
-  image: "https://via.placeholder.com/300x200?text=Organic+Green+Tea",
-  originalPrice: 12,
-  discountPrice: 9,
-  buyersNeeded: 6,
-},
+    id: 4,  // make sure this ID is unique!
+    name: "Organic Green Tea (250g)",
+    image: "https://via.placeholder.com/300x200?text=Organic+Green+Tea",
+    originalPrice: 12,
+    discountPrice: 9,
+    buyersNeeded: 6,
+  },
 ];
 
 const container = document.getElementById("products-container");
